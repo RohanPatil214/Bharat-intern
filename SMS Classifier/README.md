@@ -2,10 +2,10 @@
 End to end code for the email spam classifier project
 
 overview :- 
-Programming language :- Python
-Framework :- Scikit-learn
-Libraries :- numpy, pandas, NLTk(natural language toolkit), Streamkit(for UI)
-Algorithm :- Multinomial Navive Bayes (MNB)
+Programming language :- Python,
+Framework :- Scikit-learn,
+Libraries :- numpy, pandas, NLTk(natural language toolkit), Streamkit(for UI),
+Algorithm :- Multinomial Navive Bayes (MNB).
 
 Steps performed:- 
 1) Data preposessing
